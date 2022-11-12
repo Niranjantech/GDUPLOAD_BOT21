@@ -10,10 +10,10 @@ pySmartDL
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
-youtube_dl
+lxml
 ffmpeg
 tenacity
 html5lib
 lk21
 beautifulsoup4
-lxml
+
